@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; In Wine configuration >> Desktop Integration, set Theme to "(No Theme)" before applying this .reg file.
+
 [HKEY_CURRENT_USER\Control Panel\Colors]
 "ActiveBorder"="28 30 38"
 "ActiveTitle"="28 30 38"
